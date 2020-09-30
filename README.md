@@ -2,14 +2,14 @@
 
 ### Setup Environment
 At working directory, run
-```bash
+```shell
 $ ./init.sh
 ```
-(Install and Run Jupyter Notebook)
+(configure Env Settings  & Install and Run Jupyter Notebook)
 
 
 ### Rerun Jupyter
-```bash
-$ source ./bin/activate
-$ jupyter notebook
+```shell
+$ ./start.sh
 ```
+(Run Jupyter Notebook)
