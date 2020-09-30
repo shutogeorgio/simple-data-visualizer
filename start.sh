@@ -1,3 +1,3 @@
 #!/bin/bash
-source ./bin/active 
+source ./bin/activate 
 jupyter notebook

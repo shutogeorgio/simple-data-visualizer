@@ -13,3 +13,7 @@ $ ./init.sh
 $ ./start.sh
 ```
 (Run Jupyter Notebook)
+
+
+### Sample Preview
+[![Image from Gyazo](https://i.gyazo.com/99fd28743da49544a70229087595d174.png)](https://gyazo.com/99fd28743da49544a70229087595d174)
