@@ -10,6 +10,6 @@ $ ./init.sh
 
 ### Rerun Jupyter
 ```bash
-$ source ./bin/activate;
-$ jupyter notebook;
+$ source ./bin/activate
+$ jupyter notebook
 ```
